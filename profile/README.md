@@ -1,3 +1,5 @@
+![ecma international logo](../assets/ecma-header.svg)
+
 # WinterTC (TC55)
 
 [Ecma Technical Committee 55][TC55]: Web-interoperable Server Runtimes (a.k.a. WinterTC) aims to provide a space for
