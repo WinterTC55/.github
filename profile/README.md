@@ -7,6 +7,8 @@ JavaScript runtimes to collaborate on API interoperability with each other and w
 
 Learn more at https://wintertc.org/.
 
+**We have a [public calendar][calendar]** for the WinterTC meetings (you must be a member to join).
+
 ## Participating
 
 If you are a representative of company or an individual building a web-interoperable runtime, or are interested in
@@ -19,8 +21,6 @@ collaborating on the work that we do, here is how you can help.
   channel outside of the GitHub issues.
 - You can review the [agendas] and [minutes] of the regularly held meetings.
 - In most scenarios, you can join the committee to actively attend meetings.
-
-For improved awareness of WinterTC (TC55) events, there is a [public calendar][calendar] available.
 
 ## Joining the committee
 
